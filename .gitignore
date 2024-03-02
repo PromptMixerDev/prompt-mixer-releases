@@ -1,0 +1,25 @@
+# .gitignore
+
+# Ignore system files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore the build folder
+/dist
+
+# Ignore .env files
+.env
+
+# Ignore IDE specific files
+.idea/
+*.swp
+*.swo
+*.swn
+.vscode/
+*.sublime-project
+*.sublime-workspace
