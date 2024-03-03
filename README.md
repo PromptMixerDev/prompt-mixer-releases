@@ -4,7 +4,7 @@
 
 This repo is used for hosting public releases of Prompt Mixer.
 
-![OS X.png](./resources/osx.png)
+![OS X.png](./resources/OSX.png)
 
 With Prompt Mixer, cross-functional teams can easily create, test, and deploy prompts and prompt chains to power advanced conversational experiences.
 
